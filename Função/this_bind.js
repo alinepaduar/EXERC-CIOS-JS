@@ -11,3 +11,4 @@ falar(); // Conflito entre paradigmas: funcional e Orientado a Objeto.
 
 const falarDePessoa = pessoa.falar.bind(pessoa);
 falarDePessoa();
+
